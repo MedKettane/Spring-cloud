@@ -1,4 +1,7 @@
-----------------------------------------------------------SPRING MICROSERVICES 
+----------------------------------------------------------SPRING MICROSERVICES---------------------------------------------------------------------
+
+
+
 Inventory service
 
 ![cgatway](https://user-images.githubusercontent.com/75700746/206027132-e4e2e5ff-bc62-49e3-84f4-ab2fd61f6c67.PNG)
